@@ -1,0 +1,9 @@
+# database file
+*.db
+
+# Log file
+*.log
+
+# Mobile Tools for Java (J2ME)
+target/
+bin/
